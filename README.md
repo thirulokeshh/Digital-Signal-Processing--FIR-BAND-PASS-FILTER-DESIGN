@@ -1,6 +1,6 @@
-# Digital-Signal-Processing--FIR-BAND-PASS-FILTER-DESIGN
+# Digital-Signal-Processing--FIR-BAND-STOP-FILTER-DESIGN
 ## AIM:
-To generate design of Band Pass FIR digital filter using Window.
+To generate design of Band Stop FIR digital filter using Window.
 ## Software Required:
 MAT LAB R2012.
 ## Algorithm:
